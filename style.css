@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(239, 245, 243);
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(60, 0, 255);
+}
+.containar{
+    max-width: 1000px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 20px;
+}
+img{
+    padding: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 95px;
+    float: left;
+}
+.h{
+    text-align: left;
+    padding-top: 50px;
+    float: left;
+}
+.h-1{
+    float: right;
+    padding: 30px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.h-1 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(33, 32, 31);
+}
+.h-1 a:hover{
+    text-decoration: underline;
+    color: rgb(255, 127, 219);
+}
+.clear{
+    clear:both;
+}
+hr{
+    border: 2px solid black;
+}
+.left-class-1{
+    float: left;
+    width: 25%;
+}
+.right-class-1{
+    float: right;
+    width: 75%;
+}
+.left-class-2{
+    float: left;
+    width: 25%;
+}
+.right-class-2{
+    float: right;
+    width: 75%;
+    text-align: justify;
+}
+.right-class-3{
+    width: 37.5%;
+     float: right;
+}
+.right-class-4{
+    width: 37.5%;
+     float: right;
+}
+.f{
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+.f a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+.f a:hover{
+    color: brown;
+}
+.f p{
+    margin-top: 20px;
+    color: antiquewhite;
+}
